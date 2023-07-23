@@ -2,7 +2,7 @@ package com.BikkadIT.RetailLocation.model;
 
 public class Demo {
 
-	public void demo() {
-		System.out.println("demo method of Demo class");
+	public void QA() {
+		System.out.println("demo1 method of Demo class");
 	}
 }
